@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sithranjan 👋
 
 - 🔭 I’m a CS student at UT Dallas with a big passion for cybersecurity and learning by building cool stuff.  <br />
 - 🌱 I’m all about improving every day — whether it’s through coding, red teaming, or becoming the best version of myself.  <br />
