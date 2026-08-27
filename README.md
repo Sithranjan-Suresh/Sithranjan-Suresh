@@ -1,25 +1,28 @@
-## Hi, I'm Sithranjan 👋
+# Sithranjan Suresh
 
-- 🔭 I’m a CS student at UT Dallas with a big passion for cybersecurity, artificial intelligence, and learning by building cool stuff.  <br />
-- 🌱 I’m all about improving every day — whether it’s through coding, red teaming, or becoming the best version of myself.  <br />
-- 👯 I love connecting with like-minded people who are into tech, growth, and doing things that actually make a difference. <br /> 
-- 💬 If you’re into cybersecurity, artificial intelligence, self-improvement, or just figuring life out one step at a time, let’s talk!  <br /> 
+AI/ML engineer in training @ UT Dallas. I build and ship full-stack AI products end to end, data pipeline through interface, and I'd rather report an honest negative result than a flattering one.
 
+**4x hackathon winner** · **ML curriculum designer** (taught 30+ students, zero background → deployed models) · **undergrad researcher**, ACM Research
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sithranjan_suresh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sithranjansuresh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sithranjan.suresh@gmail.com) 
+### What I'm building
+- 🧠 Currently: quantized LLM inference + curriculum-learning pipelines (see ASCEND below)
+- 🛠️ Recently shipped: an AAC communication tool for aphasia, an AI drink-recipe engine, and a statistically validated sports analytics dashboard
+- 📈 Always: honest evaluation over impressive-sounding claims
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sithranjan-Suresh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sithranjan-Suresh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithranjan-Suresh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Featured builds
+| Project | What it does | Stack |
+|---|---|---|
+| [**ASCEND**](https://github.com/Sithranjan-Suresh/ascend) | Raised a fine-tuned DeepSeek-Coder-1.3B's pass@1 from 5.9% → 14.0% on Microsoft's P3 benchmark via a 4-bit quantized, two-pass variant-generation pipeline | LLM pipelines, quantization, GRPO |
+| [**Voca**](https://devpost.com/software/voca-mwcq82) — *Mystery Award, Ctrl+V Hackathon* | 49-concept AAC app for aphasia; sub-1s first-token streaming, offline-capable PWA | FastAPI, Groq, ElevenLabs, PWA |
+| [**Palette**](https://palette-two-coral.vercel.app/) — *1st Place, BeanHacks* | AI café-drink engine; deterministic flavor-gap search before the LLM call, Python verifier guarantees constraint compliance | FastAPI, Groq, Docker |
+| [**Ice in His Veins**](https://iceinhisveins.vercel.app/) — *2nd Place, AQX Data Bowl 2.0* | Empirical-Bayes "Pressure Fingerprint" metric across 63K+ NFL dropbacks; 8-test pytest suite validates the stats | Python, nflverse, GSAP |
+| [**Injury Risk ML Curriculum**](https://github.com/Sithranjan-Suresh/injury-risk-ml-curriculum) | The 4-week applied-ML curriculum I designed solo and taught to 30+ students, EDA through deployment | scikit-learn, FastAPI |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Tech
+`Python` `Java` `C/C++` `FastAPI` `React` `PostgreSQL` `scikit-learn` `XGBoost` `PyTorch` `Docker` `Git`
 
----
-[![](https://visitcount.itsvg.in/api?id=Sithranjan-Suresh&icon=0&color=0)](https://visitcount.itsvg.in)
+### Reach me
+[LinkedIn](https://linkedin.com/in/sithranjansuresh) · [contactsithranjansuresh@gmail.com](mailto:contactsithranjansuresh@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sithranjan-Suresh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithranjan-Suresh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
